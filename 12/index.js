@@ -5,4 +5,4 @@ function taxaDeJuros(m, c, n) {
 }
 
 
-taxaDeJuros(90_000, 60_000, 24)
+taxaDeJuros(5600, 4500, 12)
